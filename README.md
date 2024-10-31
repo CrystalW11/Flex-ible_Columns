@@ -35,3 +35,6 @@ Using the **HTML** provided below and *reusing* the `.row` and `.col-2`, classes
 <hr/>
 
 Here is how mine turned out in example below. 
+
+![alt text](image-4.png)
+
